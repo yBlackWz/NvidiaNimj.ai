@@ -38,7 +38,8 @@ const MODEL_MAPPING = {
   'gemini-pro': 'moonshotai/kimi-k2.5',
   'META': 'meta/llama-3.1-70b-instruct',
   'GLM': 'z-ai/glm4.7',
-  'GLM': 'z-ai/glm-5.1'
+  'GLM': 'z-ai/glm-5.1',
+  'QWEN': 'qwen/qwen3.5-122b-a10b'
 };
 
 // Root endpoint
